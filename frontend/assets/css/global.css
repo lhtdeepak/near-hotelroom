@@ -1,0 +1,38 @@
+.Logo-style{
+  height: 50px;
+  width: 50px;
+}
+.hotel-img{
+  background-image: url('/frontend/assets/img/bg3.jpg');
+  margin-top: 50px;
+}
+.hoteldiv{
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+.hotel-p{
+  text-align-last: center;
+    color: red;
+    font-size: 20px;
+}
+.main-img{
+  width: 100%;
+    height: 100%;
+}
+.div-hotel{
+  height: 100%;
+    display: grid;
+    background-color: aquamarine;
+}
+.padding-0{
+padding: 0 0 0 0 !important;
+}
+.fc-red{
+  color: red !important;
+}
+.btn-submit{
+  display: flex;
+    justify-content: center;
+}
