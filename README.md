@@ -5,7 +5,7 @@
 - This Near Hotel Room consists of a Smart Contract and it is witten in assembly script.
 - Ultimately, the purpose of this project was to build a simple contract to explore how persistent storage, unit tests, and contract calls interact when building on the NEAR ecosystem.
 
-### Funcationality ###
+### functionality ###
 This project includes following features :
 - Receptionist login using Near Wallet
 - Receptionist allocated rooms for customers
