@@ -38,7 +38,7 @@ This project includes following features :
 
   export function ConfirmRoomNumber(account:string,roomnumber:u128):void{
 
-    // Create Send Room No logic
+    // Create Send Room Number logic
 
 }
 
