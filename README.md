@@ -19,12 +19,7 @@ This project includes following features :
 
 #### Change Method
 
-`addDetails`
-
-
-#### Send Method
-
-`ConfirmRoomNumber`
+`addDetails` `ConfirmRoomNumber`
 
 
 #### View Method
