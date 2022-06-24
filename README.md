@@ -5,7 +5,7 @@
 - This Near Hotel Room consists of a Smart Contract and it is witten in assembly script.
 - Ultimately, the purpose of this project was to build a simple contract to explore how persistent storage, unit tests, and contract calls interact when building on the NEAR ecosystem.
 
-### Functionality ###
+### Features ###
 This project includes following features :
 - Receptionist login using Near Wallet
 - Receptionist allocated rooms for customers
@@ -13,7 +13,7 @@ This project includes following features :
 - Customers will get the room allocated messages in their Near Wallet
 
 
-### Smart Contracts Used In Project
+### Methods of Smart Contracts Used In Project
 
 
 
@@ -27,31 +27,6 @@ This project includes following features :
 `getDetails`
 
 
-
-```bash
-
-  export function addDetails(reciver:string,memo:string,hours:string,room:string,price:string, address:string, roomno:string):void{
-
-   // Create room allocated logic
-
-  }
-
-  export function ConfirmRoomNumber(account:string,roomnumber:u128):void{
-
-    // Create Send Room Number logic
-
-}
-
-
-  export function getDetails(user:String):String[]{
-
-   // View room booked logic
-
-  }
-
-  
-
-```
 
 
 ### Quick Start ###
@@ -73,7 +48,7 @@ Now you'll have a local development environment backed by the NEAR TestNet!
 
 
 
-### Exploring The Code ###
+### File Structure ###
 
 
 - The "backend" code lives in the `/contract` folder. See the README there for
