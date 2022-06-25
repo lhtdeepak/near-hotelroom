@@ -66,7 +66,7 @@ Every smart contract in NEAR has its [own associated account][NEAR accounts]. Wh
 
 
 Step 0: Install near-cli (optional)
--------------------------------------
+------------------------------------
 
 [near-cli] is a command line interface (CLI) for interacting with the NEAR blockchain. It was installed to the local `node_modules` folder when you ran `yarn install`, but for best ergonomics you may want to install it globally:
 
